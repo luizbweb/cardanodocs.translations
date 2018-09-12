@@ -1,26 +1,27 @@
 ---
 layout: default
-title: Installation
+title: Instalação
 permalink: /installation/
 group: base
 children: dsa
-language: en
+language: pt
 ---
 
-# Installation
+# Instalação
 
-## Supported Platforms
+## Plataformas Suportadas
 
-Supported platforms are Windows, macOS and Linux. There are
-[installers for Windows and macOS](https://daedaluswallet.io/#download),
-which include a main node and [Daedalus wallet](https://github.com/input-output-hk/daedalus).
+As plataformas suportada são Windows, MacOS e Linux. Veja aqui os 
+[instaladores para Windows e MacOS](https://daedaluswallet.io/#download), 
+que incluem um main node e a [Daedalus wallet](https://github.com/input-output-hk/daedalus).
 
-Linux installer is going to be released soon. Currently, there are two options to
-get Cardano SL on Linux:
+O instalador para Linux será lançado em breve. Atualmente, existem 2 opções para 
+instalar a Cardano SL no Linux:
 
-1. Build from the source code (recommended). Please refer to [How to Build Cardano SL and Daedalus from
-Source Code](https://github.com/input-output-hk/cardano-sl/blob/develop/docs/how-to/build-cardano-sl-and-daedalus-from-source-code.md) manual.
-2. Use **unofficial** packages for Arch Linux:
+1. Compile a partir do código font (recomendado). Para obter mais informações, acesse 
+[Como compilar Cardano SL e Daedalus a partir do código fonte](https://github.com/input-output-hk/cardano-sl/blob/develop/docs/how-to/build-cardano-sl-and-daedalus-from-source-code.md).
+
+2. Use pacotes **não oficiais** para Arch Linux:
    * [cardano-sl](https://aur.archlinux.org/packages/cardano-sl/)
    * [daedalus-bridge](https://aur.archlinux.org/packages/daedalus-bridge/)
    * [daedalus](https://aur.archlinux.org/packages/daedalus/)
